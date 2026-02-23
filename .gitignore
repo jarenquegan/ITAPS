@@ -1,2 +1,8 @@
 Code.gs
 .hintrc
+
+*.sql
+
+client_secret_220739146063-iadv9be5g7nrhpdeic5u0t7fambq6bp7.apps.googleusercontent.com.json
+
+.DS_Store
